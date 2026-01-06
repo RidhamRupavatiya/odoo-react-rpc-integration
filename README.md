@@ -22,8 +22,3 @@ The backend is built with **Node.js** to communicate with Odoo models running on
 - Node.js acts as a middleware between Odoo and React
 - Clean and simple project structure
 - Suitable for learning and practice
-
----
-
-## 📂 Project Structure
-
